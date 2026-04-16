@@ -1,0 +1,345 @@
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 15
+
+        [+] Item 15 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 26
+
+        [+] item 26 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 25
+
+        [+] item 25 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 3
+
+Inorder Traversal of AVL Tree:
+------------------------------
+15      25      26
+------------------------------
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 54
+
+        [+] item 54 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 3
+
+Inorder Traversal of AVL Tree:
+------------------------------
+15      25      26      54
+------------------------------
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 4
+Press any key to close the graph
+a
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 2
+Enter the item you want to delete :25
+        [-] item 25 deleted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 3
+
+Inorder Traversal of AVL Tree:
+------------------------------
+15      26      54
+------------------------------
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 2
+Enter the item you want to delete :54
+        [-] item 54 deleted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 3
+
+Inorder Traversal of AVL Tree:
+------------------------------
+15      26
+------------------------------
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 48
+
+        [+] item 48 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 75
+
+        [+] item 75 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 35
+
+        [+] item 35 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 1
+        Enter the item to insert: 48
+
+        [+] item 48 inserted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 3
+
+Inorder Traversal of AVL Tree:
+------------------------------
+15      26      35      48      48      75
+------------------------------
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 4
+Press any key to close the graph
+b
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 2
+Enter the item you want to delete :35
+        [-] item 35 deleted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 3
+
+Inorder Traversal of AVL Tree:
+------------------------------
+15      26      48      48      75
+------------------------------
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 4
+Press any key to close the graph
+c
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 2
+Enter the item you want to delete :75
+        [-] item 75 deleted successfully.
+
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 4
+Press any key to close the graph
+d
+============================
+ AVL TREE MENU
+============================
+1. Insert
+2. Delete
+3. Display
+4. Graphical Display
+5. Exit
+============================
+
+        Your choice: 5
+
+Exiting...
+
+--------------------------------
