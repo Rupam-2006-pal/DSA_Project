@@ -86,7 +86,7 @@ This code uses:
 #include <graphics.h>
 ```
 
-👉 You **must install ****`graphics.h`** in Dev-C++ to run the graphical part.
+👉 You must install **`graphics.h`** in Dev-C++ to run the graphical part.
 
 ---
 
